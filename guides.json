@@ -1,5 +1,5 @@
 {
- "updated": "Nov 5, 2026",
+ "updated": "Nov 6, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -7,7 +7,7 @@
   ],
   "B07N45NLKP": [
    "UGG Cozy Socks",
-   "Plush, fuzzy socks for cold floors \u2014 the kind of small luxury people rarely buy for themselves."
+   "Plush, fuzzy socks for cold floors — the kind of small luxury people rarely buy for themselves."
   ],
   "B0BZ8YGQQ5": [
    "The North Face ThermoBall Mules",
@@ -31,7 +31,7 @@
   ],
   "B07S651GSW": [
    "THE COMFY Wearable Blanket",
-   "An oversized hoodie made of blanket fleece \u2014 warm enough for the couch, easy to move around in."
+   "An oversized hoodie made of blanket fleece — warm enough for the couch, easy to move around in."
   ],
   "B0CBV2YGS8": [
    "Rechargeable Clip-On Book Light",
@@ -51,7 +51,7 @@
   ],
   "B09LH49KCR": [
    "Soft Caramel Throw Blanket",
-   "A warm, soft throw for the couch or the foot of the bed \u2014 one of our most-loved finds."
+   "A warm, soft throw for the couch or the foot of the bed — one of our most-loved finds."
   ],
   "B0FKR9Z43G": [
    "Homesick Bonfire Nights Candle",
@@ -59,7 +59,7 @@
   ],
   "B000FZX944": [
    "Stanley Classic Insulated Bottle",
-   "A tough, classic bottle that keeps coffee hot or drinks cold for hours \u2014 built to last."
+   "A tough, classic bottle that keeps coffee hot or drinks cold for hours — built to last."
   ],
   "B001J1L59E": [
    "Stovetop Espresso Maker",
@@ -91,7 +91,7 @@
   ],
   "B07V6V64PJ": [
    "Field Notes Pocket Notebooks 3-Pack",
-   "Pocket-size notebooks for lists, ideas and notes \u2014 a small gift that gets used."
+   "Pocket-size notebooks for lists, ideas and notes — a small gift that gets used."
   ],
   "B00008XEWG": [
    "Bodum Chambord French Press",
@@ -171,7 +171,7 @@
   ],
   "B07DJXF9DB": [
    "Reversible Faux Fur Sherpa Throw",
-   "Faux fur on one side, sherpa on the other \u2014 very cozy and soft."
+   "Faux fur on one side, sherpa on the other — very cozy and soft."
   ],
   "B09J1FKQL4": [
    "Flameless Candles With Remote and Timer",
@@ -216,6 +216,22 @@
   "B0CW2JG3JN": [
    "Rustic Ceramic Vase",
    "A simple textured vase that looks good on a shelf, with or without flowers."
+  ],
+  "B0BLMQ8BXB": [
+   "Cordless Electric Screwdriver Kit",
+   "A compact rechargeable screwdriver with interchangeable bits, handy for the dad or partner who likes fixing and building things around the house."
+  ],
+  "B08KXKFSJF": [
+   "Fuzzy House Slippers",
+   "Soft, fuzzy cross-band slippers for padding around the house, an easy cozy stocking stuffer for mom or anyone who is always cold."
+  ],
+  "B0BXX7MQTM": [
+   "Handmade Bookmark Set",
+   "A set of handmade pressed-flower bookmarks, a small and pretty stocking stuffer for the reader on your list."
+  ],
+  "B0D1V96X8G": [
+   "Ceramic Flower Vase",
+   "A small decorative ceramic vase for fresh or dried flowers, a simple gift for a grandma who loves keeping blooms on the table."
   ]
  },
  "guides": [
@@ -224,6 +240,7 @@
    "title": "Gift Ideas for Her",
    "intro": "Cozy, thoughtful gifts for mom, your wife, girlfriend, sister or best friend.",
    "items": [
+    "B08KXKFSJF",
     "B0050U3HGO",
     "B07N45NLKP",
     "B0BWJRJYS7",
@@ -249,8 +266,9 @@
   {
    "slug": "gifts-for-him",
    "title": "Gift Ideas for Him",
-   "intro": "Useful gifts for dad, your husband, boyfriend or brother \u2014 the kind they'll actually use.",
+   "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B0BLMQ8BXB",
     "B000FZX944",
     "B0B4TG9Q6W",
     "B001J1L59E",
@@ -278,6 +296,8 @@
    "title": "Stocking Stuffer Ideas",
    "intro": "Small, budget-friendly gifts that fit in a stocking and still feel thoughtful.",
    "items": [
+    "B0BXX7MQTM",
+    "B08KXKFSJF",
     "B086XGH24W",
     "B07V6V64PJ",
     "B0FP87P9DR",
@@ -403,6 +423,7 @@
    "title": "Gift Ideas for Grandma and Grandpa",
    "intro": "Comfortable, easy-to-use gifts that make everyday moments nicer.",
    "items": [
+    "B0D1V96X8G",
     "B01M1URK12",
     "B09Q8N8QVN",
     "B0CBV2YGS8",

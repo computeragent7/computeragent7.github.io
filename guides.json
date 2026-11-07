@@ -1,5 +1,5 @@
 {
- "updated": "Nov 6, 2026",
+ "updated": "Nov 7, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -232,6 +232,22 @@
   "B0D1V96X8G": [
    "Ceramic Flower Vase",
    "A small decorative ceramic vase for fresh or dried flowers, a simple gift for a grandma who loves keeping blooms on the table."
+  ],
+  "B00L3FRQ1W": [
+   "Rugged Trifold Wallet",
+   "A sturdy trifold wallet with room for cards and cash, an easy everyday-carry upgrade for husbands, dads and boyfriends."
+  ],
+  "B0BRR6Q2ZD": [
+   "Large Travel Makeup Bag",
+   "A roomy travel makeup bag that keeps brushes and skincare organized, a practical stocking stuffer for a best friend who travels."
+  ],
+  "B09SJRBMP3": [
+   "Insulated Water Bottle",
+   "A leak-resistant insulated bottle with a built-in straw and a carry loop, an easy gift for a coworker to keep at the desk."
+  ],
+  "B08GVSPFMW": [
+   "Countertop Indoor Herb Garden",
+   "A small countertop garden with a built-in grow light for fresh herbs indoors, a fun gift for plant lovers and home cooks."
   ]
  },
  "guides": [
@@ -240,6 +256,8 @@
    "title": "Gift Ideas for Her",
    "intro": "Cozy, thoughtful gifts for mom, your wife, girlfriend, sister or best friend.",
    "items": [
+    "B08GVSPFMW",
+    "B0BRR6Q2ZD",
     "B08KXKFSJF",
     "B0050U3HGO",
     "B07N45NLKP",
@@ -268,6 +286,7 @@
    "title": "Gift Ideas for Him",
    "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B00L3FRQ1W",
     "B0BLMQ8BXB",
     "B000FZX944",
     "B0B4TG9Q6W",
@@ -296,6 +315,7 @@
    "title": "Stocking Stuffer Ideas",
    "intro": "Small, budget-friendly gifts that fit in a stocking and still feel thoughtful.",
    "items": [
+    "B0BRR6Q2ZD",
     "B0BXX7MQTM",
     "B08KXKFSJF",
     "B086XGH24W",
@@ -323,6 +343,7 @@
    "title": "Cozy Gifts for Homebodies",
    "intro": "For the person whose favorite plan is a blanket, a candle and a movie.",
    "items": [
+    "B08GVSPFMW",
     "B09LH49KCR",
     "B07DJXF9DB",
     "B07S651GSW",
@@ -348,6 +369,7 @@
    "title": "Gifts for Coffee Lovers and Foodies",
    "intro": "Gifts for the person who loves their morning coffee or spends weekends in the kitchen.",
    "items": [
+    "B07GSSSTY9",
     "B00008XEWG",
     "B001J1L59E",
     "B07SW2YDMM",
@@ -357,7 +379,6 @@
     "B086XGH24W",
     "B075X1KPLZ",
     "B01FHOWYA2",
-    "B07GSSSTY9",
     "B085NDYY1P",
     "B002J6FA5S"
    ],
@@ -373,6 +394,7 @@
    "title": "Tech Gift Ideas Under $50",
    "intro": "Handy gadgets that make everyday life a little easier.",
    "items": [
+    "B07N1CMGQQ",
     "B07DBXZZN3",
     "B0C6XK77HJ",
     "B0CWXNS552",
@@ -381,7 +403,6 @@
     "B09BKCDXZC",
     "B0BQZBMXD4",
     "B0148NPH9I",
-    "B07N1CMGQQ",
     "B07B8W2KHZ",
     "B08TB6VXFL",
     "B096FD6PKN"
@@ -398,6 +419,7 @@
    "title": "Coworker and Hostess Gift Ideas",
    "intro": "Easy, crowd-pleasing gifts for the office swap or a holiday party host.",
    "items": [
+    "B09SJRBMP3",
     "B07V6V64PJ",
     "B0C9W3TTDH",
     "B01MUH938O",

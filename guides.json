@@ -1,5 +1,5 @@
 {
- "updated": "Nov 7, 2026",
+ "updated": "Nov 8, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -248,6 +248,22 @@
   "B08GVSPFMW": [
    "Countertop Indoor Herb Garden",
    "A small countertop garden with a built-in grow light for fresh herbs indoors, a fun gift for plant lovers and home cooks."
+  ],
+  "B0D9NTKS7R": [
+   "Matcha Whisk and Bowl Set",
+   "A ceramic matcha bowl with a bamboo whisk, scoop and sifter, a thoughtful pick for tea lovers who want to make matcha at home."
+  ],
+  "B08BRCT4JH": [
+   "Aluminum Laptop Stand",
+   "An adjustable aluminum stand that lifts a laptop closer to eye level, handy for anyone who works from home."
+  ],
+  "B0DF797D8N": [
+   "Magnetic Travel Chess Set",
+   "A compact chess set with magnetic pieces that stay put, easy to bring along for a game anywhere."
+  ],
+  "B0BRV9FXD7": [
+   "Date Night Food Dice",
+   "A set of decision dice that takes the guesswork out of picking what to eat, a fun little gift for couples."
   ]
  },
  "guides": [
@@ -256,6 +272,7 @@
    "title": "Gift Ideas for Her",
    "intro": "Cozy, thoughtful gifts for mom, your wife, girlfriend, sister or best friend.",
    "items": [
+    "B0D9NTKS7R",
     "B08GVSPFMW",
     "B0BRR6Q2ZD",
     "B08KXKFSJF",
@@ -286,6 +303,7 @@
    "title": "Gift Ideas for Him",
    "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B08BRCT4JH",
     "B00L3FRQ1W",
     "B0BLMQ8BXB",
     "B000FZX944",
@@ -315,6 +333,8 @@
    "title": "Stocking Stuffer Ideas",
    "intro": "Small, budget-friendly gifts that fit in a stocking and still feel thoughtful.",
    "items": [
+    "B0BRV9FXD7",
+    "B0DF797D8N",
     "B0BRR6Q2ZD",
     "B0BXX7MQTM",
     "B08KXKFSJF",
@@ -369,6 +389,7 @@
    "title": "Gifts for Coffee Lovers and Foodies",
    "intro": "Gifts for the person who loves their morning coffee or spends weekends in the kitchen.",
    "items": [
+    "B0D9NTKS7R",
     "B07GSSSTY9",
     "B00008XEWG",
     "B001J1L59E",
@@ -394,6 +415,7 @@
    "title": "Tech Gift Ideas Under $50",
    "intro": "Handy gadgets that make everyday life a little easier.",
    "items": [
+    "B08BRCT4JH",
     "B07N1CMGQQ",
     "B07DBXZZN3",
     "B0C6XK77HJ",
@@ -445,6 +467,7 @@
    "title": "Gift Ideas for Grandma and Grandpa",
    "intro": "Comfortable, easy-to-use gifts that make everyday moments nicer.",
    "items": [
+    "B0DF797D8N",
     "B0D1V96X8G",
     "B01M1URK12",
     "B09Q8N8QVN",

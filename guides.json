@@ -1,5 +1,5 @@
 {
- "updated": "Nov 8, 2026",
+ "updated": "Nov 9, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -264,6 +264,26 @@
   "B0BRV9FXD7": [
    "Date Night Food Dice",
    "A set of decision dice that takes the guesswork out of picking what to eat, a fun little gift for couples."
+  ],
+  "B0D1MH6X1Q": [
+   "Cold Brew Coffee Maker",
+   "A pitcher-style cold brew maker with a mesh filter, a good pick for a dad who drinks iced coffee at home."
+  ],
+  "B07XFQVN57": [
+   "Satin Pillowcase",
+   "A soft satin pillowcase that makes a simple, cozy upgrade for a mom who loves her bedtime routine."
+  ],
+  "B01M7U6F8T": [
+   "Adjustable Phone Stand",
+   "A small adjustable desk stand that holds a phone upright for video calls and recipes, an easy stocking stuffer for almost anyone."
+  ],
+  "B09527GMV4": [
+   "Electric Candle Lighter",
+   "A rechargeable lighter with a long neck for reaching candle wicks in jars, a practical little thank-you for a host."
+  ],
+  "B09KGVJNRW": [
+   "Dried Pampas Grass Bundle",
+   "A bundle of natural dried pampas grass for a vase, a soft boho touch for someone decorating a new home."
   ]
  },
  "guides": [
@@ -272,6 +292,7 @@
    "title": "Gift Ideas for Her",
    "intro": "Cozy, thoughtful gifts for mom, your wife, girlfriend, sister or best friend.",
    "items": [
+    "B07XFQVN57",
     "B0D9NTKS7R",
     "B08GVSPFMW",
     "B0BRR6Q2ZD",
@@ -303,6 +324,7 @@
    "title": "Gift Ideas for Him",
    "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B0D1MH6X1Q",
     "B08BRCT4JH",
     "B00L3FRQ1W",
     "B0BLMQ8BXB",
@@ -333,6 +355,8 @@
    "title": "Stocking Stuffer Ideas",
    "intro": "Small, budget-friendly gifts that fit in a stocking and still feel thoughtful.",
    "items": [
+    "B09527GMV4",
+    "B01M7U6F8T",
     "B0BRV9FXD7",
     "B0DF797D8N",
     "B0BRR6Q2ZD",
@@ -363,6 +387,8 @@
    "title": "Cozy Gifts for Homebodies",
    "intro": "For the person whose favorite plan is a blanket, a candle and a movie.",
    "items": [
+    "B09KGVJNRW",
+    "B07XFQVN57",
     "B08GVSPFMW",
     "B09LH49KCR",
     "B07DJXF9DB",
@@ -389,6 +415,7 @@
    "title": "Gifts for Coffee Lovers and Foodies",
    "intro": "Gifts for the person who loves their morning coffee or spends weekends in the kitchen.",
    "items": [
+    "B0D1MH6X1Q",
     "B0D9NTKS7R",
     "B07GSSSTY9",
     "B00008XEWG",
@@ -415,6 +442,7 @@
    "title": "Tech Gift Ideas Under $50",
    "intro": "Handy gadgets that make everyday life a little easier.",
    "items": [
+    "B01M7U6F8T",
     "B08BRCT4JH",
     "B07N1CMGQQ",
     "B07DBXZZN3",
@@ -441,6 +469,7 @@
    "title": "Coworker and Hostess Gift Ideas",
    "intro": "Easy, crowd-pleasing gifts for the office swap or a holiday party host.",
    "items": [
+    "B09527GMV4",
     "B09SJRBMP3",
     "B07V6V64PJ",
     "B0C9W3TTDH",

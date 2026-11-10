@@ -1,5 +1,5 @@
 {
- "updated": "Nov 9, 2026",
+ "updated": "Nov 10, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -284,6 +284,22 @@
   "B09KGVJNRW": [
    "Dried Pampas Grass Bundle",
    "A bundle of natural dried pampas grass for a vase, a soft boho touch for someone decorating a new home."
+  ],
+  "B07MB99Y2W": [
+   "Huggie Hoop Earrings",
+   "Small gold-plated huggie hoops that go with almost everything, an easy stocking stuffer for anyone who wears earrings every day."
+  ],
+  "B08L5N6NF5": [
+   "Insulated Tumbler With Lid",
+   "An insulated tumbler with a lid that keeps coffee or tea at temperature through a long workday, a practical gift for a coworker's desk."
+  ],
+  "B0D637HK8Q": [
+   "Slim Wallet Tracker Card",
+   "A thin Bluetooth tracker card that slips into a wallet so it can be found from a phone, handy for anyone who misplaces their wallet."
+  ],
+  "B000EVIWS2": [
+   "Wooden Salt Cellar",
+   "A wooden salt cellar with a lid that keeps salt within pinch-reach by the stove, a simple gift for home cooks and foodies."
   ]
  },
  "guides": [
@@ -292,6 +308,7 @@
    "title": "Gift Ideas for Her",
    "intro": "Cozy, thoughtful gifts for mom, your wife, girlfriend, sister or best friend.",
    "items": [
+    "B07MB99Y2W",
     "B07XFQVN57",
     "B0D9NTKS7R",
     "B08GVSPFMW",
@@ -324,6 +341,7 @@
    "title": "Gift Ideas for Him",
    "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B0D637HK8Q",
     "B0D1MH6X1Q",
     "B08BRCT4JH",
     "B00L3FRQ1W",
@@ -355,6 +373,7 @@
    "title": "Stocking Stuffer Ideas",
    "intro": "Small, budget-friendly gifts that fit in a stocking and still feel thoughtful.",
    "items": [
+    "B07MB99Y2W",
     "B09527GMV4",
     "B01M7U6F8T",
     "B0BRV9FXD7",
@@ -415,6 +434,7 @@
    "title": "Gifts for Coffee Lovers and Foodies",
    "intro": "Gifts for the person who loves their morning coffee or spends weekends in the kitchen.",
    "items": [
+    "B000EVIWS2",
     "B0D1MH6X1Q",
     "B0D9NTKS7R",
     "B07GSSSTY9",
@@ -442,6 +462,7 @@
    "title": "Tech Gift Ideas Under $50",
    "intro": "Handy gadgets that make everyday life a little easier.",
    "items": [
+    "B0D637HK8Q",
     "B01M7U6F8T",
     "B08BRCT4JH",
     "B07N1CMGQQ",
@@ -469,6 +490,7 @@
    "title": "Coworker and Hostess Gift Ideas",
    "intro": "Easy, crowd-pleasing gifts for the office swap or a holiday party host.",
    "items": [
+    "B08L5N6NF5",
     "B09527GMV4",
     "B09SJRBMP3",
     "B07V6V64PJ",

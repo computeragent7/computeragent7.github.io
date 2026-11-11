@@ -1,5 +1,5 @@
 {
- "updated": "Nov 10, 2026",
+ "updated": "Nov 11, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -300,6 +300,26 @@
   "B000EVIWS2": [
    "Wooden Salt Cellar",
    "A wooden salt cellar with a lid that keeps salt within pinch-reach by the stove, a simple gift for home cooks and foodies."
+  ],
+  "B09SBTZNTP": [
+   "Kitchen Tea Towel",
+   "A kitchen tea towel with a \"Grandma's Kitchen\" theme, a small, practical gift for a grandma who loves to cook or bake."
+  ],
+  "B00MYSQ9GA": [
+   "Whiskey Glass With Ice Wedge",
+   "A whiskey glass with a built-in silicone mold that freezes an ice wedge, a fun gift for a husband or dad who enjoys a drink at home."
+  ],
+  "B09L3FH1F5": [
+   "Sushi Making Kit",
+   "A beginner sushi-making kit with rolling tools, a fun gift for a best friend or foodie who loves a night in."
+  ],
+  "B0FJG8YKQH": [
+   "Slim Portable Charger",
+   "A compact 5000mAh portable charger that slips into a bag or pocket, handy for teens and anyone whose phone runs low on the go."
+  ],
+  "B09P3CZV4W": [
+   "Velvet Pumpkin Set",
+   "A set of soft velvet decorative pumpkins for a fall table or mantel, an easy hostess gift to bring to Thanksgiving dinner."
   ]
  },
  "guides": [
@@ -341,6 +361,8 @@
    "title": "Gift Ideas for Him",
    "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B07J2Z5DBM",
+    "B00MYSQ9GA",
     "B0D637HK8Q",
     "B0D1MH6X1Q",
     "B08BRCT4JH",
@@ -358,8 +380,7 @@
     "B00008XEWG",
     "B09Q8N8QVN",
     "B07V6V64PJ",
-    "B0BQZBMXD4",
-    "B01IHHLB3W"
+    "B0BQZBMXD4"
    ],
    "photo_query": "coffee mug wood table",
    "photo_require": [
@@ -434,6 +455,7 @@
    "title": "Gifts for Coffee Lovers and Foodies",
    "intro": "Gifts for the person who loves their morning coffee or spends weekends in the kitchen.",
    "items": [
+    "B09L3FH1F5",
     "B000EVIWS2",
     "B0D1MH6X1Q",
     "B0D9NTKS7R",
@@ -462,6 +484,7 @@
    "title": "Tech Gift Ideas Under $50",
    "intro": "Handy gadgets that make everyday life a little easier.",
    "items": [
+    "B0FJG8YKQH",
     "B0D637HK8Q",
     "B01M7U6F8T",
     "B08BRCT4JH",
@@ -490,6 +513,7 @@
    "title": "Coworker and Hostess Gift Ideas",
    "intro": "Easy, crowd-pleasing gifts for the office swap or a holiday party host.",
    "items": [
+    "B09P3CZV4W",
     "B08L5N6NF5",
     "B09527GMV4",
     "B09SJRBMP3",
@@ -518,6 +542,7 @@
    "title": "Gift Ideas for Grandma and Grandpa",
    "intro": "Comfortable, easy-to-use gifts that make everyday moments nicer.",
    "items": [
+    "B09SBTZNTP",
     "B0DF797D8N",
     "B0D1V96X8G",
     "B01M1URK12",

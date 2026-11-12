@@ -1,5 +1,5 @@
 {
- "updated": "Nov 11, 2026",
+ "updated": "Nov 12, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -320,6 +320,18 @@
   "B09P3CZV4W": [
    "Velvet Pumpkin Set",
    "A set of soft velvet decorative pumpkins for a fall table or mantel, an easy hostess gift to bring to Thanksgiving dinner."
+  ],
+  "B0C27FG8L9": [
+   "Candle Warmer Lamp",
+   "A dimmable flower-shaped lamp that warms a jar candle from above, a cozy pick for moms and candle lovers who want the scent without an open flame."
+  ],
+  "B0B7ZM1DM9": [
+   "12-Day Coffee Sampler",
+   "A 12-day countdown of different flavored coffees from Door County Coffee, a fun holiday gift for coffee lovers who like to try something new."
+  ],
+  "B07R1TPZYH": [
+   "Tortilla Throw Blanket",
+   "A round throw blanket printed like a giant tortilla, a funny and cozy gift for homebodies who love to wrap up on the couch."
   ]
  },
  "guides": [
@@ -328,6 +340,7 @@
    "title": "Gift Ideas for Her",
    "intro": "Cozy, thoughtful gifts for mom, your wife, girlfriend, sister or best friend.",
    "items": [
+    "B0C27FG8L9",
     "B07MB99Y2W",
     "B07XFQVN57",
     "B0D9NTKS7R",
@@ -346,8 +359,7 @@
     "B0CDCL6Y5T",
     "B09LH49KCR",
     "B0BRXXNXMT",
-    "B0FKR9Z43G",
-    "B09Q4L157D"
+    "B0FKR9Z43G"
    ],
    "photo_query": "gift box ribbon",
    "photo_require": [
@@ -427,6 +439,8 @@
    "title": "Cozy Gifts for Homebodies",
    "intro": "For the person whose favorite plan is a blanket, a candle and a movie.",
    "items": [
+    "B07R1TPZYH",
+    "B0C27FG8L9",
     "B09KGVJNRW",
     "B07XFQVN57",
     "B08GVSPFMW",
@@ -455,6 +469,7 @@
    "title": "Gifts for Coffee Lovers and Foodies",
    "intro": "Gifts for the person who loves their morning coffee or spends weekends in the kitchen.",
    "items": [
+    "B0B7ZM1DM9",
     "B09L3FH1F5",
     "B000EVIWS2",
     "B0D1MH6X1Q",

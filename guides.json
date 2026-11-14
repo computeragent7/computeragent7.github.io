@@ -1,5 +1,5 @@
 {
- "updated": "Nov 12, 2026",
+ "updated": "Nov 14, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -332,6 +332,22 @@
   "B07R1TPZYH": [
    "Tortilla Throw Blanket",
    "A round throw blanket printed like a giant tortilla, a funny and cozy gift for homebodies who love to wrap up on the couch."
+  ],
+  "B076H7YRK1": [
+   "Insulated Can Cooler Set",
+   "A set of insulated can coolers that keep drinks cold at cookouts, game days and backyard hangs, a good fit for dads who like a cold one outside."
+  ],
+  "B003YFI0O6": [
+   "Cordless Electric Wine Opener",
+   "A rechargeable wine opener that pulls corks at the push of a button, a handy thank-you for a host who likes to open a bottle for guests."
+  ],
+  "B00B5EE0A6": [
+   "Manatee Tea Infuser",
+   "A silly silicone manatee that holds loose-leaf tea in your mug, a small stocking stuffer for tea drinkers who like a laugh."
+  ],
+  "B0CPY8HD24": [
+   "Cordless Table Lamp",
+   "A rechargeable cordless table lamp that can sit anywhere without an outlet, nice for moms and homebodies who love a soft glow by the sofa or bed."
   ]
  },
  "guides": [
@@ -373,6 +389,7 @@
    "title": "Gift Ideas for Him",
    "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B076H7YRK1",
     "B07J2Z5DBM",
     "B00MYSQ9GA",
     "B0D637HK8Q",
@@ -391,8 +408,7 @@
     "B01MTB55WH",
     "B00008XEWG",
     "B09Q8N8QVN",
-    "B07V6V64PJ",
-    "B0BQZBMXD4"
+    "B07V6V64PJ"
    ],
    "photo_query": "coffee mug wood table",
    "photo_require": [
@@ -406,6 +422,7 @@
    "title": "Stocking Stuffer Ideas",
    "intro": "Small, budget-friendly gifts that fit in a stocking and still feel thoughtful.",
    "items": [
+    "B00B5EE0A6",
     "B07MB99Y2W",
     "B09527GMV4",
     "B01M7U6F8T",
@@ -424,7 +441,6 @@
     "B07N45NLKP",
     "B002G9UE1S",
     "B01MUH938O",
-    "B0081Z77LG",
     "B08TB6VXFL"
    ],
    "photo_query": "christmas stocking",
@@ -439,6 +455,7 @@
    "title": "Cozy Gifts for Homebodies",
    "intro": "For the person whose favorite plan is a blanket, a candle and a movie.",
    "items": [
+    "B0CPY8HD24",
     "B07R1TPZYH",
     "B0C27FG8L9",
     "B09KGVJNRW",
@@ -469,6 +486,7 @@
    "title": "Gifts for Coffee Lovers and Foodies",
    "intro": "Gifts for the person who loves their morning coffee or spends weekends in the kitchen.",
    "items": [
+    "B00B5EE0A6",
     "B0B7ZM1DM9",
     "B09L3FH1F5",
     "B000EVIWS2",
@@ -528,6 +546,7 @@
    "title": "Coworker and Hostess Gift Ideas",
    "intro": "Easy, crowd-pleasing gifts for the office swap or a holiday party host.",
    "items": [
+    "B003YFI0O6",
     "B09P3CZV4W",
     "B08L5N6NF5",
     "B09527GMV4",

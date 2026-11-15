@@ -1,5 +1,5 @@
 {
- "updated": "Nov 14, 2026",
+ "updated": "Nov 15, 2026",
  "items": {
   "B0050U3HGO": [
    "Waffle Kimono Spa Robe",
@@ -348,6 +348,22 @@
   "B0CPY8HD24": [
    "Cordless Table Lamp",
    "A rechargeable cordless table lamp that can sit anywhere without an outlet, nice for moms and homebodies who love a soft glow by the sofa or bed."
+  ],
+  "B0FWS37F5V": [
+   "Insulated Travel Coffee Mug",
+   "A 12-ounce stainless steel insulated mug from RTIC that keeps coffee hot on the commute, a practical pick for the guy who always has a drink in hand."
+  ],
+  "B019CXRMI8": [
+   "Microwave Popcorn Popper",
+   "A borosilicate glass popcorn popper that makes popcorn in the microwave without bags, a fun gift for a best friend who loves movie nights in."
+  ],
+  "B075DWT9KR": [
+   "Petite Scented Jar Candle",
+   "A small Capri Blue Volcano jar candle in a pretty glass jar, an easy stocking stuffer for anyone who loves a cozy room."
+  ],
+  "B011L7NIAE": [
+   "Labrador Wine Bottle Holder",
+   "A playful Labrador-shaped bottle holder from True Zoo that holds one wine bottle on the counter, a cute hostess gift for dog lovers."
   ]
  },
  "guides": [
@@ -356,6 +372,7 @@
    "title": "Gift Ideas for Her",
    "intro": "Cozy, thoughtful gifts for mom, your wife, girlfriend, sister or best friend.",
    "items": [
+    "B075DWT9KR",
     "B0C27FG8L9",
     "B07MB99Y2W",
     "B07XFQVN57",
@@ -374,8 +391,7 @@
     "B0FP87P9DR",
     "B0CDCL6Y5T",
     "B09LH49KCR",
-    "B0BRXXNXMT",
-    "B0FKR9Z43G"
+    "B0BRXXNXMT"
    ],
    "photo_query": "gift box ribbon",
    "photo_require": [
@@ -389,6 +405,7 @@
    "title": "Gift Ideas for Him",
    "intro": "Useful gifts for dad, your husband, boyfriend or brother — the kind they'll actually use.",
    "items": [
+    "B0FWS37F5V",
     "B076H7YRK1",
     "B07J2Z5DBM",
     "B00MYSQ9GA",
@@ -407,8 +424,7 @@
     "B002G9UE1S",
     "B01MTB55WH",
     "B00008XEWG",
-    "B09Q8N8QVN",
-    "B07V6V64PJ"
+    "B09Q8N8QVN"
    ],
    "photo_query": "coffee mug wood table",
    "photo_require": [
@@ -422,6 +438,7 @@
    "title": "Stocking Stuffer Ideas",
    "intro": "Small, budget-friendly gifts that fit in a stocking and still feel thoughtful.",
    "items": [
+    "B075DWT9KR",
     "B00B5EE0A6",
     "B07MB99Y2W",
     "B09527GMV4",
@@ -440,8 +457,7 @@
     "B096FD6PKN",
     "B07N45NLKP",
     "B002G9UE1S",
-    "B01MUH938O",
-    "B08TB6VXFL"
+    "B01MUH938O"
    ],
    "photo_query": "christmas stocking",
    "photo_require": [
@@ -455,6 +471,7 @@
    "title": "Cozy Gifts for Homebodies",
    "intro": "For the person whose favorite plan is a blanket, a candle and a movie.",
    "items": [
+    "B019CXRMI8",
     "B0CPY8HD24",
     "B07R1TPZYH",
     "B0C27FG8L9",
@@ -546,6 +563,7 @@
    "title": "Coworker and Hostess Gift Ideas",
    "intro": "Easy, crowd-pleasing gifts for the office swap or a holiday party host.",
    "items": [
+    "B011L7NIAE",
     "B003YFI0O6",
     "B09P3CZV4W",
     "B08L5N6NF5",
